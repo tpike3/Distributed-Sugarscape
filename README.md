@@ -20,7 +20,7 @@ Distributed Sugarscape requires
 
  At this time DS Mesa is only able to porvide modest improvements. The below graphs show improvements over tun time and breaks down the magement cost and the step costfor models run on two processors and models run on four processors. 
 
- ![Run time: agent population by run time]
+ ![Run time: agent population by run time](https://github.com/tpike3/Distributed-Sugarscape/blob/master/pictures/overhead%20and%20per%20step.png)
 
 
- ![Breakdown: Break down of step time and management time] 
+ ![Breakdown: Break down of step time and management time](https://github.com/tpike3/Distributed-Sugarscape/blob/master/pictures/size%20and%20run%20time.png)
