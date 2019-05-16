@@ -11,7 +11,7 @@ Distributed Sugarscape requires
     NetworkX>=2.2
     Pathos>=0.2.3 
 
- The main run files are:
+ The main run files are (in either the verifcation or Exploration/Size Explore folders):
 
  	1. Run the test module -- run_distro_test.py
  	2. Run the distro module -- run_distro.py
